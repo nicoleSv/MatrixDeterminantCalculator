@@ -1,0 +1,6 @@
+com\rsa\matrix\determinant\FileMatrix.class
+com\rsa\matrix\determinant\RandomMatrix.class
+com\rsa\matrix\determinant\DeterminantCalculator.class
+com\rsa\matrix\determinant\SubmatrixTask.class
+com\rsa\matrix\determinant\Matrix.class
+com\rsa\matrix\determinant\BaseMatrix.class
